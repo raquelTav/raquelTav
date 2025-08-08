@@ -1,16 +1,15 @@
-## Hi there 👋
+# olá 👋
 
-<!--
-**raquelTav/raquelTav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou iniciando minha jornada na área de tecnologia.  
+Tenho interesse em aprender sobre desenvolvimento de software, entender como as aplicações funcionam e construir minhas próprias soluções.
 
-Here are some ideas to get you started:
+No momento, estou focada em:
+- Conhecer os fundamentos da programação
+- Explorar diferentes áreas dentro da tecnologia
+- Desenvolver meus primeiros projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em busca de aprendizado contínuo e oportunidades que me ajudem a crescer como profissional de TI.
+
+ **Contato**
+- [LinkedIn](https://www.linkedin.com/in/raquel-araujo-982585379/)  
+- Email: raqquel011@gmail.com
