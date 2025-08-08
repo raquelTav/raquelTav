@@ -1,8 +1,8 @@
 <!-- Cabeçalho com efeito de digitação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Raquel+Araujo!;Iniciante+em+Tecnologia;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+aprender+e+crescer!)](https://git.io/typing-svg)
 
-<!-- GIF animado lateral -->
-<img align="right" alt="coding-gif" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThzc2o0MGhhcGhtZHQ0dmtzMnVxZnVydGdxZDFkYmJjdTBwb3lpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif">
+<!-- Imagem feminina e tecnológica -->
+<img align="right" alt="programadora" height="200" src="https://images.openai.com/thumbnails/url/k7fO43icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5MdclNKin2dtdNK8ktyHJxNjExNSnLNQoMLgguKjNNCqp0c_XzcPL2ywtJNg3ycI7KDil29wgIjjdwD1QrBgAYGSlX">
 
 ### 🚀 Sobre mim
 - 👩‍💻 Estou começando minha jornada na área de tecnologia  
@@ -29,7 +29,7 @@
 
 ### 🌐 Onde me encontrar
 <div>
-  <a href="https://linkedin.com/in/raquel-araujo-982585379" target="_blank">
+  <a href="https://www.linkedin.com/in/raquel-araujo-982585379/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:raqquel011@gmail.com">
