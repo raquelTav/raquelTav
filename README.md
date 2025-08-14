@@ -4,11 +4,11 @@
 <!-- Imagem feminina e tecnológica -->
 <img align="right" alt="programadora" height="200" src="https://images.openai.com/thumbnails/url/k7fO43icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5MdclNKin2dtdNK8ktyHJxNjExNSnLNQoMLgguKjNNCqp0c_XzcPL2ywtJNg3ycI7KDil29wgIjjdwD1QrBgAYGSlX">
 
-### 🚀 Sobre mim
-- 👩‍💻 Estou começando minha jornada na área de tecnologia  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🌱 Buscando aprender programação e novas tecnologias  
-- 🤝 Aberta a oportunidades, colaborações e aprendizado constante  
+### Sobre mim
+- Estou começando minha jornada na área de tecnologia  
+- Estudante de **Análise e Desenvolvimento de Sistemas**  
+- Buscando aprender programação e novas tecnologias  
+- Aberta a oportunidades, colaborações e aprendizado constante  
 
 ---
 
