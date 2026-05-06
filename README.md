@@ -1,42 +1,36 @@
-<!-- Cabeçalho com efeito de digitação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Raquel+Araujo!;Iniciante+em+Tecnologia;Apaixonada+por+aprender+e+crescer!)](https://git.io/typing-svg)
-
-<!-- Imagem feminina e tecnológica -->
-<img align="right" alt="programadora" height="200" src="https://images.openai.com/thumbnails/url/k7fO43icu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw5MdclNKin2dtdNK8ktyHJxNjExNSnLNQoMLgguKjNNCqp0c_XzcPL2ywtJNg3ycI7KDil29wgIjjdwD1QrBgAYGSlX">
-
-### Sobre mim
-- Estou começando minha jornada na área de tecnologia  
-- Estudante de **Análise e Desenvolvimento de Sistemas**  
-- Buscando aprender programação e novas tecnologias  
-- Aberta a oportunidades, colaborações e aprendizado constante  
-
----
-
-### 📊 Minhas Estatísticas no GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelTav&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelTav&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Raquel%20Araujo&fontSize=60&fontAlignY=35&desc=Analisando%20dados%20%7C%20Escrevendo%20códigos%20%7C%20Construindo%20ideias&descSize=18&descAlignY=55" width="100%"/>
+  
 </div>
 
----
-
-### 🔥 Streak de Contribuições
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raquelTav&theme=dracula&hide_border=false" />
+  
+  ### ✨ *"Transformando dados em decisões, uma linha de código por vez"* ✨
+  
 </div>
 
 ---
 
-### 🌐 Onde me encontrar
-<div>
-  <a href="https://www.linkedin.com/in/raquel-araujo-982585379/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:raqquel011@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+## 👩‍💻 Sobre mim
 
----
-
-✨ _"A persistência realiza o impossível."_ ✨
+```python
+class Raquel:
+    def __init__(self):
+        self.nome = "Raquel Araujo"
+        self.local = "Fortaleza, CE - Brasil ☀️"
+        self.formacao = "Análise e Desenvolvimento de Sistemas"
+        self.objetivo = "Estágio | Serviços em Tecnologia"
+        
+    
+    
+        }
+    
+    def cursos(self):
+        return [
+            "🎓 Santander Open Academy + Alura - Análise de Dados e IA",
+            "🎓 ADS - em andamento"
+        ]
+    
+    def contato(self):
+        print("📫 Vamos conversar? Me chama no LinkedIn!")
